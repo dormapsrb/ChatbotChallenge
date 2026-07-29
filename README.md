@@ -11,10 +11,9 @@ It answers questions from the perspective of Lee Kuan Yew by retrieving relevant
 - Flowise chatbot
 - RAG architecture
 - Document retrieval
-- Gemini 3 Flash Preview
+- Gemini Model
 - Grounded responses
-- Evaluation test cases
-
+  
 ## Technical Architecture
 
 User Question
@@ -23,10 +22,8 @@ Retriever
         ↓
 Knowledge Base
         ↓
-Gemini 3 Flash Preview
+Gemini Model
         ↓
 Response
 
-## Repository Structure
 
-...
